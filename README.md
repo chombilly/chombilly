@@ -1,5 +1,5 @@
 👋 Hi, I’m @chombilly
-Python
 C#
+Python
 Programming
 Talk to you soon.
